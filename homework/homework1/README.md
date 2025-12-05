@@ -1,2 +1,25 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Homework 1 Dart 기초 개인 과제
+
+## 📁 프로젝트 구조
+- [필수문제1] 점수에 맞는 등급 출력 프로그램  
+- [필수문제2] 가상의 쇼핑몰 결제 프로그램  
+- [도전문제] 가상의 복권(로또) 프로그램  
+```text
+homework1/
+ ├─ bin/
+ │   ├─ _01_problem1.dart    // 필수 문제 1
+ │   ├─ _03_problem2.dart    // 필수 문제 2
+ │   └─ _03_challenge.dart   // 도전 문제
+ ├─ lib/
+ ├─ pubspec.yaml
+ └─ README.md
+```
+
+
+## [필수문제1] 점수에 맞는 등급 출력 프로그램
+
+
+## [필수문제2] 가상의 쇼핑몰 결제 프로그램
+
+
+## [도전문제] 가상의 복권(로또) 프로그램
